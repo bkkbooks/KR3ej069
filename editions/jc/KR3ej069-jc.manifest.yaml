@@ -1,0 +1,908 @@
+canonical_identifier: bkk:krp/KR3ej069/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej069/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小兒推拿方脈活嬰秘旨全書
+  identifiers:
+    krp: KR3ej069
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej069.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej069_000-jc.yaml, hash: 'sha256:87dbc57e6ef6f474aef9c0ccc3ad0fcd3d04a07558ed927a355c74e5f05d37e9'}
+  - {seq: 1, filename: KR3ej069_001-jc.yaml, hash: 'sha256:2b0553505a9c9ccd686d77bcd3e942af1dc4691eaae55e5fff8e1eb9575c40fc'}
+  - {seq: 2, filename: KR3ej069_002-jc.yaml, hash: 'sha256:1f25a6b8c17337bbcb9213c9b797ab6d23ef2106819a9ece2d8c3317b7396910'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej069_000-jc.markers.yaml, hash: 'sha256:a78e68fc4d01b06e580bbeb712ec80a33eb1eb99ca5931665776fdb8c939854d'}
+  - {seq: 1, role: markers, filename: assets/KR3ej069_001-jc.markers.yaml, hash: 'sha256:347fb0cf4848368996e45c5b38ee5600dd4c3e7cb414994e296aa6fa102328b0'}
+  - {seq: 2, role: markers, filename: assets/KR3ej069_002-jc.markers.yaml, hash: 'sha256:87f0c98b88defb9ec150202707f2d579baab7338cf1e147d3cf7539ba90dfe30'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej069_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 166
+  label: 小兒椎拿活嬰秘旨序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej069_jc_000-d4.h1s1
+    span:
+    - front
+    - 166
+    - 500
+  label: 小兒推拿方脈活嬰秘旨全書序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ej069_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 232
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 12002
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 407
+  label: 總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d3
+    span:
+    - body
+    - 407
+    - 679
+  label: 蒸變論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d4
+    span:
+    - body
+    - 679
+    - 1005
+  label: 驚風論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d5
+    span:
+    - body
+    - 1005
+    - 1125
+  label: 諸疳論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d6
+    span:
+    - body
+    - 1125
+    - 1203
+  label: 吐瀉論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d7
+    span:
+    - body
+    - 1203
+    - 1721
+  label: 嬰童賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d8
+    span:
+    - body
+    - 1721
+    - 2538
+  label: 面部險症歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d9
+    span:
+    - body
+    - 2538
+    - 2669
+  label: 險症不治歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d10
+    span:
+    - body
+    - 2669
+    - 2822
+  label: 面部捷徑歌此色與三關看法同
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d11
+    span:
+    - body
+    - 2822
+    - 2907
+  label: 小兒無患歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d12
+    span:
+    - body
+    - 2907
+    - 2952
+  label: 夭症歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d13
+    span:
+    - body
+    - 2952
+    - 2997
+  label: 面部五色歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d14
+    span:
+    - body
+    - 2997
+    - 3270
+  label: 虎口三關察症歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d15
+    span:
+    - body
+    - 3270
+    - 3639
+  label: 虎口脈紋五言獨步歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d16
+    span:
+    - body
+    - 3639
+    - 3812
+  label: 五臟主病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d17
+    span:
+    - body
+    - 3812
+    - 4169
+  label: 掌上諸穴拿法歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d18
+    span:
+    - body
+    - 4169
+    - 4496
+  label: 掌面推法歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d19
+    span:
+    - body
+    - 4496
+    - 4586
+  label: 掌背穴治病歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d20
+    span:
+    - body
+    - 4586
+    - 6077
+  label: 二十四驚推法歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d21
+    span:
+    - body
+    - 6077
+    - 6866
+  label: 雜症推拿歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d22
+    span:
+    - body
+    - 6866
+    - 7799
+  label: 驗症加減法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d23
+    span:
+    - body
+    - 7799
+    - 8248
+  label: 十二手法訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d24
+    span:
+    - body
+    - 8248
+    - 8574
+  label: 寸口脈訣歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d25
+    span:
+    - body
+    - 8574
+    - 8607
+  label: 人門先知訣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d26
+    span:
+    - body
+    - 8607
+    - 8852
+  label: 虎口三關察脈圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d27
+    span:
+    - body
+    - 8852
+    - 9196
+  label: 掌面諸穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d28
+    span:
+    - body
+    - 9196
+    - 9435
+  label: 掌背穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d29
+    span:
+    - body
+    - 9435
+    - 9616
+  label: 腳上諸穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d30
+    span:
+    - body
+    - 9616
+    - 9933
+  label: 五色不治歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d31
+    span:
+    - body
+    - 9933
+    - 11467
+  label: 正面部位歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d32
+    span:
+    - body
+    - 11467
+    - 11681
+  label: 補遺臍風論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d33
+    span:
+    - body
+    - 11681
+    - 11721
+  label: 刺泡法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d34
+    span:
+    - body
+    - 11721
+    - 11811
+  label: 回氣法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d35
+    span:
+    - body
+    - 11811
+    - 11871
+  label: 通便法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej069_jc_001-d5d36
+    span:
+    - body
+    - 11871
+    - 12002
+  label: 貼囟法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 12810
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 1429
+  label: 病機纂要
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d3
+    span:
+    - body
+    - 1429
+    - 1913
+  label: 寒門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d4
+    span:
+    - body
+    - 1913
+    - 2284
+  label: 熱門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d5
+    span:
+    - body
+    - 2284
+    - 2343
+  label: 急驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d6
+    span:
+    - body
+    - 2343
+    - 2402
+  label: 慢驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d7
+    span:
+    - body
+    - 2402
+    - 2461
+  label: 胎驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d8
+    span:
+    - body
+    - 2461
+    - 2493
+  label: 天吊驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d9
+    span:
+    - body
+    - 2493
+    - 2569
+  label: 臍風撮口驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d10
+    span:
+    - body
+    - 2569
+    - 2601
+  label: 禁口驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d11
+    span:
+    - body
+    - 2601
+    - 2661
+  label: 脾風驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d12
+    span:
+    - body
+    - 2661
+    - 2707
+  label: 發搐症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d13
+    span:
+    - body
+    - 2707
+    - 2739
+  label: 盤腸驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d14
+    span:
+    - body
+    - 2739
+    - 3960
+  label: 內吊驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d15
+    span:
+    - body
+    - 3960
+    - 4256
+  label: 驚癇症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d16
+    span:
+    - body
+    - 4256
+    - 4438
+  label: 傷寒門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d17
+    span:
+    - body
+    - 4438
+    - 4500
+  label: 傷風門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d18
+    span:
+    - body
+    - 4500
+    - 5460
+  label: 咳嗽歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d19
+    span:
+    - body
+    - 5460
+    - 5624
+  label: 斑疹門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d20
+    span:
+    - body
+    - 5624
+    - 5687
+  label: 傷寒斑疹不治歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d21
+    span:
+    - body
+    - 5687
+    - 6166
+  label: 吐瀉門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d22
+    span:
+    - body
+    - 6166
+    - 6241
+  label: 吐瀉不治歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d23
+    span:
+    - body
+    - 6241
+    - 6378
+  label: 瘧疾症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d24
+    span:
+    - body
+    - 6378
+    - 6440
+  label: 瘧疾不治症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d25
+    span:
+    - body
+    - 6440
+    - 6757
+  label: 痢門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d26
+    span:
+    - body
+    - 6757
+    - 6818
+  label: 痢疾不治歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d27
+    span:
+    - body
+    - 6818
+    - 7300
+  label: 疳積門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d28
+    span:
+    - body
+    - 7300
+    - 7333
+  label: 疳積不治歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d29
+    span:
+    - body
+    - 7333
+    - 7521
+  label: 傷積總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d30
+    span:
+    - body
+    - 7521
+    - 7954
+  label: 脾胃門總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d31
+    span:
+    - body
+    - 7954
+    - 8065
+  label: 自汗盜汗大汗症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d32
+    span:
+    - body
+    - 8065
+    - 8250
+  label: 腹痛症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d33
+    span:
+    - body
+    - 8250
+    - 8355
+  label: 蛔蟲痛歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d34
+    span:
+    - body
+    - 8355
+    - 8477
+  label: 夜啼客忤驚歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d35
+    span:
+    - body
+    - 8477
+    - 8556
+  label: 蒸變症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d36
+    span:
+    - body
+    - 8556
+    - 8672
+  label: 解顱總括歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d37
+    span:
+    - body
+    - 8672
+    - 8733
+  label: 囟陷症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d38
+    span:
+    - body
+    - 8733
+    - 8833
+  label: 囟填症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d39
+    span:
+    - body
+    - 8833
+    - 8914
+  label: 赤遊風症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d40
+    span:
+    - body
+    - 8914
+    - 9003
+  label: 語遲症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d41
+    span:
+    - body
+    - 9003
+    - 9122
+  label: 滯頤症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d42
+    span:
+    - body
+    - 9122
+    - 9387
+  label: 癩頭瘡症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d43
+    span:
+    - body
+    - 9387
+    - 9523
+  label: 重舌木舌弄舌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d44
+    span:
+    - body
+    - 9523
+    - 9775
+  label: 鵝口口瘡重齶歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d45
+    span:
+    - body
+    - 9775
+    - 9877
+  label: 龜胸龜背歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d46
+    span:
+    - body
+    - 9877
+    - 9987
+  label: 行遲大法歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d47
+    span:
+    - body
+    - 9987
+    - 10101
+  label: 脫肛症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d48
+    span:
+    - body
+    - 10101
+    - 10377
+  label: 遺尿症歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej069_jc_002-d6d49
+    span:
+    - body
+    - 10377
+    - 12810
+  label: 奏效方
+  type: section
+  level: 2
+hash: sha256:b6baf5c66e254f13e4301021bc2f8c7b44589823f396e16a486b546801d76065
