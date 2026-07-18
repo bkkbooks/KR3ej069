@@ -23,7 +23,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej069_000.markers.yaml, hash: 'sha256:f4dcbfb49cbbd7a7903f911793fe9c6c61f74971562884256323d4233f472100'}
   - {seq: 1, role: markers, filename: assets/KR3ej069_001.markers.yaml, hash: 'sha256:4eb45b5c0fffc2d5d5d441661fd38a893ad83a29dde8337ec1f96bc00851e29c'}
-  - {seq: 2, role: markers, filename: assets/KR3ej069_002.markers.yaml, hash: 'sha256:680ce6b7a2b43a12cec2de4b9c91688f22362b2a94c067c1085898e9bea06b6b'}
+  - {seq: 2, role: markers, filename: assets/KR3ej069_002.markers.yaml, hash: 'sha256:eebfdb80d6d24376e2b15e9cd092617dbfec2e249faf685137ad7e37db822e27'}
 table_of_contents:
 - ref:
     seq: 0
@@ -905,7 +905,7 @@ table_of_contents:
   label: 奏效方
   type: section
   level: 2
-hash: sha256:a030334ae42dbbc18a4bc35147f714d0d94c73d00ed007383e8ed6090bfc965f
+hash: sha256:5def90faaf6bc05529654b9b6e1e1a7a0f501985fa98445fedddbefa7e7067a4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

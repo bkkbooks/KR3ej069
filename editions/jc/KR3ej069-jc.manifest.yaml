@@ -23,7 +23,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej069_000-jc.markers.yaml, hash: 'sha256:a78e68fc4d01b06e580bbeb712ec80a33eb1eb99ca5931665776fdb8c939854d'}
   - {seq: 1, role: markers, filename: assets/KR3ej069_001-jc.markers.yaml, hash: 'sha256:347fb0cf4848368996e45c5b38ee5600dd4c3e7cb414994e296aa6fa102328b0'}
-  - {seq: 2, role: markers, filename: assets/KR3ej069_002-jc.markers.yaml, hash: 'sha256:87f0c98b88defb9ec150202707f2d579baab7338cf1e147d3cf7539ba90dfe30'}
+  - {seq: 2, role: markers, filename: assets/KR3ej069_002-jc.markers.yaml, hash: 'sha256:ad4009902e8be72daaef2f3f2dda5576bdabc98c574e6120510769c12c3e5f33'}
 table_of_contents:
 - ref:
     seq: 0
@@ -905,4 +905,4 @@ table_of_contents:
   label: 奏效方
   type: section
   level: 2
-hash: sha256:b6baf5c66e254f13e4301021bc2f8c7b44589823f396e16a486b546801d76065
+hash: sha256:acad4f6dcf9d29399144e22d7b244a8ff1f8a8caec527cfb83fa33185fc1621b
